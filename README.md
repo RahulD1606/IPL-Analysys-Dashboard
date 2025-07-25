@@ -11,7 +11,14 @@ The goal of this project is to analyze IPL match and player performance data to 
 - Venue statistics
 - Toss decisions and their impacts
 
----
+## 🔧 Tools & Technologies
+
+| Tool          | Purpose                             |
+|---------------|-------------------------------------|
+| Power BI      | Data modeling & interactive visuals |
+| Power Query   | Data cleaning & transformation      |
+| Excel / CSV   | Raw data storage and handling       |
+| DAX           | Calculated measures and KPIs        |
 
 # 🔍 Features
 
